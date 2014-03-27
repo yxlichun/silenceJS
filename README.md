@@ -1,0 +1,4 @@
+silenceJS
+=========
+
+javascript
